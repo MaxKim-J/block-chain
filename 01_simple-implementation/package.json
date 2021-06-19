@@ -1,0 +1,14 @@
+{
+  "name": "my-chain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "max kim",
+  "license": "MIT",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "merkle": "^0.6.0"
+  }
+}
